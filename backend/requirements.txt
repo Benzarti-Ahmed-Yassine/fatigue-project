@@ -1,0 +1,9 @@
+flask
+tensorflow>=2.10
+opencv-python
+scikit-image
+scikit-learn
+pandas
+numpy
+joblib
+flask-cors
